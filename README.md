@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 
 ## **Web Development Frameworks**
 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 ## **Statistics**
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccortesra&hide=html,jupyter%20notebook,css,coffeescript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
