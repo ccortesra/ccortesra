@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 
 ## **Statistics**
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccortesra&hide=html,jupyter%20notebook,css,coffeescript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ccortesra&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Carlos's GitHub Stats" />
 
 
@@ -49,7 +51,7 @@ Here are some ideas to get you started:
 <a href="mailto:ccortesra@unal.edu.co?Subject=Interest to reach you" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="linkedin.com/in/carlos-alberto-cortés-ramírez-89a47b1bb" target="_blank">
+<a href="https://linkedin.com/in/carlos-alberto-cortés-ramírez-89a47b1bb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
