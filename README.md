@@ -35,3 +35,9 @@ Here are some ideas to get you started:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
+
+## **Statistics**
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ccortesra&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Carlos's GitHub Stats" />
+
