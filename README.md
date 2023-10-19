@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on personal projects.
 - 🌱 I’m currently learning AI, Data Science, Data Analytics.
-- 🚀 I’m looking to collaborate on projects related to Web Development.
-- 🎯 2022 Goals: Learn React.js and Node js, Master all kind of Algorithms, Learn new things.
-
+- 🚀 I’m looking to collaborate on projects related to Data Science, Machine Learning, Data Analytics.
 
 # **Skills:**
 
